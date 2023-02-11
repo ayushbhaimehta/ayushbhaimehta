@@ -75,9 +75,9 @@
   <div align="center">
     <img width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbhaimehta&theme=dark" alt="ayushbhaimehta" />
   </div>
-  <div align="center">
+<!--   <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushbhaimehta&layout=compact&theme=dracula" />
-  </div>
+  </div> -->
   <br />
   <a href="http://www.github.com/ayushbhaimehta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushbhaimehta&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
