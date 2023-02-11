@@ -10,7 +10,7 @@
 
 ## 🏅 Achievements
 
--   ⭐ **Winner of NeoBank hackathon** organized by _WellsFargo_ (May 2021)
+-   ⭐ **Winner of NeoBank hackathon** organized by _WellsFargo_ (December 2022)
 -   🥇 **3rd rank in Hackadroit** at _PEC_ (April 2022)
 -   ⭐ **University Rank 3** at GFG_practice 
 -   🤝 **Hashcode participant** points _1768600_ (Feb 2022)
