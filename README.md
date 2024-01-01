@@ -5,8 +5,6 @@
 
 🎓 I am Ayush, a **Full Stack Web Developer** specializing in **MERN STACK** pursuing my Bachelors from [**Punjab Engineering College**](https://pec.ac.in/).
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. Right now I am contributing to organizations like **Palisa** and **Process**.
-
 📚 Outside the world of tech too, I love **storytelling** and playing **chess**.My favourite openings are Najdorf for black and Ruy Lopez for white, though I like to play Najdorf from both sides. I also love to read books and listen to podcasts on business and finance. My favourites ones are **Start with Why** by _Simon Sinek_ and in the genre of personal development **The Art of Storytelling** by _John D Walsh_ and **Wired for story** by _Lisa Con_ .
 
 ## 🏅 Achievements
