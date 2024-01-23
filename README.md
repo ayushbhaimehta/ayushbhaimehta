@@ -1,5 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" style="text-align: center">
 ![gitartwork](gitartwork.svg)
+<!--   <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushbhaimehta&layout=compact&theme=dracula" />
+    [iitkgp.pdf](https://github.com/ayushbhaimehta/ayushbhaimehta/files/14019657/iitkgp.pdf)
+[2138761.pdf](https://github.com/ayushbhaimehta/ayushbhaimehta/files/14019782/2138761.pdf)
+  </div> -->
+
+
 
 ## 🚀 About Me
 
